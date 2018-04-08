@@ -9,5 +9,5 @@ During the running process of the program, after watching the graph window, plea
 next graph can be shown. Ignore the warning and failure (if any) shown on the console, please focus on the print
 data on it instead.
 
-Contact me via Hazelnut@sjtu.edu.cn or 903909408@qq.com if there's any problem. Have a nice day : )
+Contact me by Hazelnut@sjtu.edu.cn or 903909408@qq.com if there's any problem. Have a nice day : )
 
